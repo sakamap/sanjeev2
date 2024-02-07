@@ -1,4 +1,4 @@
 # sanjeev2
 
-this is git hub
+this is git pull
 hello!
